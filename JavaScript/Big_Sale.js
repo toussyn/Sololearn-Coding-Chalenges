@@ -10,6 +10,7 @@ Sample Output
 80
 */
 
+
 function main() {
     var oldPrice = parseInt(readLine(), 10)
 
